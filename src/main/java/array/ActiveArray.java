@@ -1,4 +1,4 @@
-package method.array;
+package array;
 
 public class ActiveArray {
     public static void main(String[] args) {

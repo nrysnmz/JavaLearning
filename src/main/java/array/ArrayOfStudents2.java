@@ -1,4 +1,4 @@
-package method.array;
+package array;
 
 class Student
 {

@@ -1,3 +1,4 @@
+package memory;
 
 class Calculator {
     int num = 5;

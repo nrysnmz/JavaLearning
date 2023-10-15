@@ -1,3 +1,5 @@
+package objects;
+
 class A
 {
     public A()

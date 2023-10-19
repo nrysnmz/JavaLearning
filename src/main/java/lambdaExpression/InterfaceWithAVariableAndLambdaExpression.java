@@ -1,4 +1,4 @@
-package lamdaExpression;
+package lambdaExpression;
 
 @FunctionalInterface                //By doing this, we are making sure that we only have ONE METHOD in this interface.
 interface D {

@@ -1,4 +1,4 @@
-package lamdaExpression;
+package lambdaExpression;
 
 interface H {
     int add(int i, int j);

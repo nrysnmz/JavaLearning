@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-practice" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/rewards-converter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/temp/java-practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/temp/java-practice/java-practice" vcs="Git" />
   </component>
 </project>
